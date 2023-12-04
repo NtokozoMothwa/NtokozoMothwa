@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ntokozo! <br/><a href="(https://github.com/NtokozoMothwa)">Cloud Practioner</a>, <a href="(https://www.linkedin.com/in/ntokozo-mothwa/)">Cybersecurity Professional</a>,
+<h1>Hi, I'm Ntokozo! <br/><a href="(https://github.com/NtokozoMothwa)">Cloud Practioner</a> and <a href="(https://www.linkedin.com/in/ntokozo-mothwa/)">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
