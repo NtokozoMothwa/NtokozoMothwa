@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Scratch</b>
-  - [Scratch Project titled: the race](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Scratch Project titled: the race]((https://github.com/NtokozoMothwa/Scratch-project))
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
