@@ -1,12 +1,17 @@
 #  Cloud Practitioner & Cybersecurity Professional
 
+# Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional
+
 ## 👨‍💻 Currently Learning:
-- HTML
-- CSS
-- Wireshark
-- Linux
-- AWS
-- Other DevSecOps Tools
+- ![HTML](https://example.com/html_icon.png) HTML
+- ![CSS](https://example.com/css_icon.png) CSS
+- ![Wireshark](https://example.com/wireshark_icon.png) Wireshark
+- ![Linux](https://example.com/linux_icon.png) Linux
+- ![Python](https://example.com/python_icon.png) Python
+- ![AWS](https://example.com/aws_icon.png) AWS
+- ![Other DevSecOps Tools](https://example.com/devsecops_icon.png) Other DevSecOps Tools
+
+...
 
 ## 👨‍💻 CyberSecurity Projects:
 - **Network Analysis with WireShark (NetworkCapturing)**
