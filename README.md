@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <head>
   <title>Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional</title>
   <style>
