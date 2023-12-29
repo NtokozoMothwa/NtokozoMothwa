@@ -1,10 +1,11 @@
-# Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional
+#  Cloud Practitioner & Cybersecurity Professional
 
 ## 👨‍💻 Currently Learning:
 - HTML
 - CSS
 - Wireshark
 - Linux
+- AWS
 - Other DevSecOps Tools
 
 ## 👨‍💻 CyberSecurity Projects:
