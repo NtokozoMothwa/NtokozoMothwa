@@ -36,7 +36,4 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 ## 🤳 Connect with me:
-- [YouTube](https://www.youtube.com/c/joshmadakor)
-- [Twitter](https://twitter.com/joshmadakor)
-- [LinkedIn](https://linkedin.com/in/joshmadakor)
-- [Instagram](https://www.instagram.com/joshmadakor/)
+- [LinkedIn](https://github.com/NtokozoMothwa)
