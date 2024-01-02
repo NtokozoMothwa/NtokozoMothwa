@@ -3,13 +3,13 @@
 # Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional
 
 ## 👨‍💻 Currently Learning:
-- ![HTMLstyle= height:69px length:69px;](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png) HTML
-- ![CSS](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png) CSS
-- ![Wireshark](https://cdn.icon-icons.com/icons2/1495/PNG/512/wireshark_103123.png) Wireshark
-- ![Linux](https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png) Linux
-- ![Python](https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png) Python
-- ![AWS](https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png) AWS
-- ![Other DevSecOps Tools](https://cdn.icon-icons.com/icons2/2596/PNG/512/other_icon_155053.png) Other DevSecOps Tools
+- <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="50"> HTML
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="50"> CSS
+- <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/wireshark_103123.png" alt="Wireshark" width="50"> Wireshark
+- <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" width="50"> Linux
+- <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="50"> Python
+- <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="AWS" width="50"> AWS
+- <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/other_icon_155053.png" alt="Other DevSecOps Tools" width="50"> Other DevSecOps Tools
 
 ...
 
