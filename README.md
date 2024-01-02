@@ -3,7 +3,7 @@
 # Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional
 
 ## 👨‍💻 Currently Learning:
-- ![HTML](https://www.freepnglogos.com/images/html5-logo-31813.html) HTML
+- ![HTML]/(https://www.freepnglogos.com/images/html5-logo-31813.html) HTML
 - ![CSS](https://example.com/css_icon.png) CSS
 - ![Wireshark](https://example.com/wireshark_icon.png) Wireshark
 - ![Linux](https://example.com/linux_icon.png) Linux
