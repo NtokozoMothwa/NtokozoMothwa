@@ -3,13 +3,13 @@
 # Ntokozo Mothwa | Cloud Practitioner & Cybersecurity Professional
 
 ## 👨‍💻 Currently Learning:
-- ![HTMLstyle= height:125px length:125px;](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png) HTML
+- ![HTMLstyle= height:69px length:69px;](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png) HTML
 - ![CSS](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png) CSS
 - ![Wireshark](https://cdn.icon-icons.com/icons2/1495/PNG/512/wireshark_103123.png) Wireshark
 - ![Linux](https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png) Linux
-- ![Python](https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png) Python
-- ![AWS](https://example.com/aws_icon.png) AWS
-- ![Other DevSecOps Tools](https://example.com/devsecops_icon.png) Other DevSecOps Tools
+- ![Python](https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png) Python
+- ![AWS](https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png) AWS
+- ![Other DevSecOps Tools](https://cdn.icon-icons.com/icons2/2596/PNG/512/other_icon_155053.png) Other DevSecOps Tools
 
 ...
 
