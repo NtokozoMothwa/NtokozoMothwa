@@ -1,4 +1,4 @@
-#  Cloud Practitioner & Cybersecurity Professional <HR>
+#  Cloud Practitioner & Cybersecurity Professional
 
 ## 👨‍💻 Currently Learning:
 - <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="20"> HTML
