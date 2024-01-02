@@ -9,9 +9,7 @@
 - <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" width="20"> Linux
 - <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="20"> Python
 - <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="AWS" width="20"> AWS
-- <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/other_icon_155053.png" alt="Other DevSecOps Tools" width="20"> Other DevSecOps Tools
-
-...
+- <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/other_icon_155053.png" alt="Other DevSecOps Tools" width="20"> Other DevSecOps Tools <hr>
 
 ## 👨‍💻 CyberSecurity Projects:
 - **Network Analysis with WireShark (NetworkCapturing)**
