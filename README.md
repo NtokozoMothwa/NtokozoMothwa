@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Currently Learning:
 - ![HTMLstyle= height:125px length:125px;](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png) HTML
-- ![CSS](https://example.com/css_icon.png) CSS
+- ![CSS](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png) CSS
 - ![Wireshark](https://example.com/wireshark_icon.png) Wireshark
 - ![Linux](https://example.com/linux_icon.png) Linux
 - ![Python](https://example.com/python_icon.png) Python
