@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Currently Learning:
 - <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="20"> HTML <br>
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="20"> CSS
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="20"> CSS <br>
 - <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/wireshark_103123.png" alt="Wireshark" width="20"> Wireshark
 - <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" width="20"> Linux
 - <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="20"> Python
