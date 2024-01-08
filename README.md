@@ -1,5 +1,5 @@
 # Cloud Practitioner & Cybersecurity Professional
-<body backround-color: "white";>
+<body style=backround-color: "white;">
 ## 👨‍💻 Currently Learning:
 - <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="20"> HTML   
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="20"> CSS  
