@@ -23,7 +23,7 @@
 - **GitHub**
   - [Branching and Merging (Web UI)](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
 - **Python**
-  - [Branching and Merging (Web UI)](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
+  - [To-Do List Application](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
 
 ## 📺 Popular YouTube Videos
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
