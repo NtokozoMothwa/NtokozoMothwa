@@ -22,6 +22,8 @@
   - [Scratch Project titled: the race](https://scratch.mit.edu/projects/938876054/)
 - **GitHub**
   - [Branching and Merging (Web UI)](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
+- **Python**
+  - [Branching and Merging (Web UI)](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
 
 ## 📺 Popular YouTube Videos
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
