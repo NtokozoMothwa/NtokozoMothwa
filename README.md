@@ -26,7 +26,7 @@
   - **Python**
     - [To-Do List Application](https://github.com/NtokozoMothwa/ToDo-List-App)
   - **Cisco**
-    - [Simple home network using Cisco Packet Tracer](https://github.com/NtokozoMothwa/ToDo-List-App)
+    - [Simple home network using Cisco Packet Tracer](https://github.com/NtokozoMothwa/builing-a-home-network)
 
 
   ## 📺 Popular YouTube Videos
