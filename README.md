@@ -20,10 +20,8 @@
 
   ## 📺 CERTIFICATIONS:
   - [Cybersecurity Fundamentals Issued by IBM SkillsBuild](https://www.credly.com/badges/c8339d5e-7ab1-4d88-bb7f-8cc215db9e2c)
-  - [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-  - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-  - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [Fundamentals of Predictive Project Managemen Issued by Project Management Institute](https://www.credly.com/badges/2ece66cd-8c60-419a-827b-59283d0a3dde)
+  - [Fundamentals of Agile Project Management Issued by Project Management Institute](https://www.credly.com/badges/982feea7-6c22-44da-9574-4b4be203644d)
 
   ## 🤳 Connect with me:
   - [LinkedIn](https://github.com/NtokozoMothwa)
