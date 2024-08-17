@@ -25,6 +25,8 @@
   - [Fundamentals of Predictive Project Managemen Issued by Project Management Institute](https://www.credly.com/badges/2ece66cd-8c60-419a-827b-59283d0a3dde)
   - [Fundamentals of Agile Project Management Issued by Project Management Institute](https://www.credly.com/badges/982feea7-6c22-44da-9574-4b4be203644d)
   - [Introduction to Web Programming by Hans Petter Issued by Cursa](https://cursacertificates.s3.amazonaws.com/cert_af84009f0c28ef6cf1ac0b138dba9f1a.png?time=1723902795)
+  - [Cybersecurity Fundamentals Issued by IBM SkillsBuild](https://cursacertificates.s3.amazonaws.com/cert_af84009f0c28ef6cf1ac0b138dba9f1a.png?time=1723902795)
+  - [Cybersecurity Fundamentals Issued by IBM SkillsBuild](https://drive.google.com/file/d/1euU8U9p-S-jqvKP5IIxZP8ZjM2_-qhC7/view?usp=sharing)
 
   ## 🤳 Connect with me:
   - [LinkedIn](https://github.com/NtokozoMothwa)
