@@ -26,7 +26,7 @@
   - [Fundamentals of Agile Project Management Issued by Project Management Institute](https://www.credly.com/badges/982feea7-6c22-44da-9574-4b4be203644d)
   - [Introduction to Web Programming by Hans Petter Issued by Cursa](https://cursacertificates.s3.amazonaws.com/cert_af84009f0c28ef6cf1ac0b138dba9f1a.png?time=1723902795)
   - [Founder Acamdemy Course by ALX Ventures](https://intranet.alxswe.com/certificates/C6mMRSn3e7?utm_campaign=VEN%20-2024Q1%20-%20Founders%20Academy%20C1&utm_medium=email&_hsenc=p2ANqtz-_c8VzOYzgXV5I-TG6QHrKlIivox8N6TUErD5eb4XefGbFy12NpUqOW8Lo0aFUJAsNcu3Dzr7q5ETS2XQpW245V-E9b_A&_hsmi=91097812&utm_content=91097812&utm_source=hs_email)
-  - [Cybersecurity Fundamentals Issued by IBM SkillsBuild](https://drive.google.com/file/d/1euU8U9p-S-jqvKP5IIxZP8ZjM2_-qhC7/view?usp=sharing)
+  - [Certificate Of Year 1 Completion Implemented by The DO School Fellowships gGmbH](https://drive.google.com/file/d/1euU8U9p-S-jqvKP5IIxZP8ZjM2_-qhC7/view?usp=sharing)
 
   ## 🤳 Connect with me:
   - [LinkedIn](https://github.com/NtokozoMothwa)
