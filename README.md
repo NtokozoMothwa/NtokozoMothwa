@@ -6,18 +6,10 @@
 
   ## 👨‍💻 Projects List:
 
-  - **Scratch**
-    - [Scratch Project titled: the race](https://scratch.mit.edu/projects/938876054/)
-  - **GitHub**
-    - [Branching and Merging (Web UI)](https://github.com/NtokozoMothwa/Branching-and-Merging-Web-UI)
   - **Html**
     - [CatPhotoApp](https://github.com/NtokozoMothwa/ToDo-List-App)
-  - **Cisco**
-    - [Simple home network using Cisco Packet Tracer](https://github.com/NtokozoMothwa/builing-a-home-network)
   - **Flutter App**
-    - [SneakerZone (an e-commerce app that sells shoes](https://github.com/NtokozoMothwa/builing-a-home-network)
-  - **Python**
-    - [HelloWorld]() 
+    - [SneakerZone (an e-commerce app that sells shoes](https://github.com/NtokozoMothwa/builing-a-home-network) 
 
 
   ## 📺 CERTIFICATIONS:
