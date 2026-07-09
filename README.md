@@ -9,7 +9,7 @@
   - **Html**
     - [CatPhotoApp](https://github.com/NtokozoMothwa/ToDo-List-App)
   - **KIONI v0 (beta)**
-    - [Safety platform design to detect cybersecurity vulnerability and secure data](https://github.com/NtokozoMothwa/kioni-platform.git) 
+    - [Safety platform designed to detect cybersecurity vulnerabilities and secure data](https://github.com/NtokozoMothwa/kioni-platform.git) 
 
 
   ## 📺 CERTIFICATIONS:
