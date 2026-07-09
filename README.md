@@ -11,7 +11,7 @@
   - **KIONI v0 (beta)**
     - [Safety platform designed to detect cybersecurity vulnerabilities and secure data](https://github.com/NtokozoMothwa/kioni-platform.git)
   - **Workwise AI**
-    -  [A single, integrated web application that brings four AI-powered productivity tools into one professional dashboard. Built to demonstrate practical AI implementation, structured prompt engineering, and responsible AI usage](https://github.com/NtokozoMothwa/ai-workplace-hub.git)  
+    -  [A single, integrated web application that brings four AI-powered productivity tools into one professional dashboard.](https://github.com/NtokozoMothwa/ai-workplace-hub.git)  
 
 
   ## 📺 CERTIFICATIONS:
