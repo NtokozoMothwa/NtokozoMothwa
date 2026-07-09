@@ -9,7 +9,9 @@
   - **Html**
     - [CatPhotoApp](https://github.com/NtokozoMothwa/ToDo-List-App)
   - **KIONI v0 (beta)**
-    - [Safety platform designed to detect cybersecurity vulnerabilities and secure data](https://github.com/NtokozoMothwa/kioni-platform.git) 
+    - [Safety platform designed to detect cybersecurity vulnerabilities and secure data](https://github.com/NtokozoMothwa/kioni-platform.git)
+  - **Workwise AI**
+    -  [A single, integrated web application that brings four AI-powered productivity tools into one professional dashboard. Built to demonstrate practical AI implementation, structured prompt engineering, and responsible AI usage](https://github.com/NtokozoMothwa/kioni-platform.git)  
 
 
   ## 📺 CERTIFICATIONS:
