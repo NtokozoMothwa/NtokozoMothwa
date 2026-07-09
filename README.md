@@ -8,8 +8,8 @@
 
   - **Html**
     - [CatPhotoApp](https://github.com/NtokozoMothwa/ToDo-List-App)
-  - **Flutter App**
-    - [SneakerZone (an e-commerce app that sells shoes](https://github.com/NtokozoMothwa/builing-a-home-network) 
+  - **KIONI v0 (beta)**
+    - [Safety platform design to detect cybersecurity vulnerability and secure data](https://github.com/NtokozoMothwa/kioni-platform.git) 
 
 
   ## 📺 CERTIFICATIONS:
